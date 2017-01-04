@@ -1,4 +1,4 @@
-# FileHandlingWithPythonAndSPSSModeler
+# File Handling With Python and IBM SPSS Modeler
 
 This procedure uses Python in the backend of the IBM SPSS Modeler, interacting through the modeler API. The modeler stream itself is not included in the repo. Some of the nodes are statically built in the modeler GUI, some are created with python during the loop. Both sorts of nodes are clearly identifiable in the python code through their unique ID. 
 
